@@ -147,9 +147,6 @@ class OverlayInfo extends React.Component {
 	}
 
 	openAdLink() {
-		const url = "https://play.google.com/store/apps/details?id=com.chesshq.sudokuLegends";
-
-		window.open(url, "", "width=1200,height=830,location=no,menubar=no");
 	}
 }
 
